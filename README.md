@@ -16,7 +16,7 @@ Los estudiantes aprenderán a través de la planificación, diseño y construcci
 
 ## 📝 Consigna
 El proyecto se podrá realizar de manera **individual o en grupos de hasta 2 integrantes como máximo**.  
-Cada estudiante o grupo deberá diseñar un **sitio web educativo** sobre Redes Informáticas, que contenga y explique los principales temas trabajados durante el año.  
+Cada estudiante o grupo deberá diseñar un **sitio web** sobre Redes Informáticas, que contenga y explique los principales temas trabajados durante el año.  
 
 👉 El sitio debe ser navegable, con un **menú principal**, secciones bien diferenciadas y al menos **5 páginas HTML** vinculadas entre sí.  
 
@@ -56,13 +56,14 @@ Cada estudiante o grupo deberá diseñar un **sitio web educativo** sobre Redes 
 ## 🖥️ Requisitos técnicos mínimos
 - Sitio web con al menos **5 páginas HTML** enlazadas mediante un menú de navegación.  
 - Uso de **CSS externo** para estilos.  
-- Incluir:
-  - Tablas.  
-  - Listas (ordenadas y desordenadas).  
+- Incluir:  
+  - 1 **tabla**.  
+  - 2 **listas** (una ordenada y una desordenada).  
   - Encabezados `<h1> ... <h3>` bien utilizados.  
   - **Imágenes en buena calidad** y **videos insertados con `<iframe>`**.  
 - Diseño moderno, con colores y tipografía legibles.  
 - Buen uso de etiquetas semánticas: `<nav>`, `<header>`, `<footer>`, etc.  
+- **El sitio debe ser responsive**, adaptándose correctamente a **computadoras, tablets y móviles**.  
 
 ---
 
@@ -84,7 +85,7 @@ Ejemplo: tabla *Dispositivos* con campos `ID`, `Nombre`, `Tipo`, `Función`.
 - **Una sola carpeta comprimida** (`.rar` o `.zip`) con el sitio completo (archivos `.html`, `.css` y opcional `.js`).  
 - El nombre de la carpeta debe incluir el **nombre completo de los integrantes y el curso**.  
 - **Modalidad de trabajo:** individual o en grupos de 2 integrantes.  
-- **Fecha de entrega:** 14 de Noviembre.  
+- **Fecha de entrega:** **14 de Noviembre**.  
 
 ---
 
