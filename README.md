@@ -19,6 +19,7 @@ El proyecto se podrá realizar de manera **individual o en grupos de hasta 2 int
 Cada estudiante o grupo deberá diseñar un **sitio web** sobre Redes Informáticas, que contenga y explique los principales temas trabajados durante el año.  
 
 👉 El sitio debe ser navegable, con un **menú principal**, secciones bien diferenciadas y al menos **5 páginas HTML** vinculadas entre sí.  
+👉 Bebe ser **responsive**, garantizando una correcta visualización y usabilidad en computadoras, tablets y dispositivos móviles.
 
 ---
 
@@ -57,8 +58,8 @@ Cada estudiante o grupo deberá diseñar un **sitio web** sobre Redes Informáti
 - Sitio web con al menos **5 páginas HTML** enlazadas mediante un menú de navegación.  
 - Uso de **CSS externo** para estilos.  
 - Incluir:  
-  - 1 **tabla**.  
-  - 2 **listas** (una ordenada y una desordenada).  
+  - **Tablas**.  
+  - **Listas** (ordenadas y desordenadas).  
   - Encabezados `<h1> ... <h3>` bien utilizados.  
   - **Imágenes en buena calidad** y **videos insertados con `<iframe>`**.  
 - Diseño moderno, con colores y tipografía legibles.  
