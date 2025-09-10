@@ -70,7 +70,7 @@ Cada estudiante o grupo deberá diseñar un **sitio web** sobre Redes Informáti
 
 ## 🗄️ Articulación con Bases de Datos (opcional)
 Proponer una **tabla simple en HTML** que represente cómo organizar información de red.  
-Ejemplo: tabla *Dispositivos* con campos `ID`, `Nombre`, `Tipo`, `Función`.  
+Ejemplo: tabla *Dispositivos* con campos "ID`, `Nombre`, `Tipo`, `Función".  
 
 ---
 
@@ -83,7 +83,7 @@ Ejemplo: tabla *Dispositivos* con campos `ID`, `Nombre`, `Tipo`, `Función`.
 ---
 
 ## 📦 Entrega
-- **Una sola carpeta comprimida** (`.rar` o `.zip`) con el sitio completo (archivos `.html`, `.css` y opcional `.js`).  
+- **Una sola carpeta comprimida** ("rar" o "zip") con el sitio completo (archivos ".html, .css y opcional .js").  
 - El nombre de la carpeta debe incluir el **nombre completo de los integrantes y el curso**.  
 - **Modalidad de trabajo:** individual o en grupos de 2 integrantes.  
 - **Fecha de entrega:** **14 de Noviembre**.  
